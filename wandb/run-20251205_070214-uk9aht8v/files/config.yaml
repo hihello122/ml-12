@@ -1,0 +1,50 @@
+_wandb:
+    value:
+        cli_version: 0.22.3
+        e:
+            77c4rmpm7t3l5g04fxphly6zbya1ja6n:
+                cpu_count: 4
+                cpu_count_logical: 8
+                cudaVersion: "12.8"
+                disk:
+                    /:
+                        total: "144942542848"
+                        used: "84157181952"
+                email: hyunz0904@naver.com
+                executable: /home/ec2-user/anaconda3/envs/pytorch_p310/bin/python
+                gpu: NVIDIA A10G
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ampere
+                      cudaCores: 10240
+                      memoryTotal: "24146608128"
+                      name: NVIDIA A10G
+                      uuid: GPU-1dabbb59-53b6-e9f4-9494-2dd63d455cad
+                host: ip-172-16-28-20.us-west-2.compute.internal
+                memory:
+                    total: "33279090688"
+                os: Linux-5.10.245-241.978.amzn2.x86_64-x86_64-with-glibc2.26
+                program: <python with no main file>
+                python: CPython 3.10.19
+                root: /home/ec2-user/SageMaker
+                startedAt: "2025-12-05T07:02:14.697134Z"
+                writerId: 77c4rmpm7t3l5g04fxphly6zbya1ja6n
+        m: []
+        python_version: 3.10.19
+        t:
+            "1":
+                - 1
+                - 5
+                - 53
+            "2":
+                - 1
+                - 5
+                - 53
+            "3":
+                - 2
+            "4": 3.10.19
+            "5": 0.22.3
+            "8":
+                - 1
+            "12": 0.22.3
+            "13": linux-x86_64

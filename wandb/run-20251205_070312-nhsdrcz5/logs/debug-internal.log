@@ -1,0 +1,6 @@
+{"time":"2025-12-05T07:03:12.738206563Z","level":"INFO","msg":"stream: starting","core version":"0.22.3"}
+{"time":"2025-12-05T07:03:12.94375937Z","level":"INFO","msg":"stream: created new stream","id":"nhsdrcz5"}
+{"time":"2025-12-05T07:03:12.943829971Z","level":"INFO","msg":"handler: started","stream_id":"nhsdrcz5"}
+{"time":"2025-12-05T07:03:12.943929843Z","level":"INFO","msg":"stream: started","id":"nhsdrcz5"}
+{"time":"2025-12-05T07:03:12.943942703Z","level":"INFO","msg":"writer: started","stream_id":"nhsdrcz5"}
+{"time":"2025-12-05T07:03:12.943966413Z","level":"INFO","msg":"sender: started","stream_id":"nhsdrcz5"}

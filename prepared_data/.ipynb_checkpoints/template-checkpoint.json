@@ -1,0 +1,4 @@
+{
+  "prompt": "당신은 한국 주식 및 지수 시장을 분석하는 애널리스트입니다.\n아래의 VQ-VAE 코드, OHLCV 요약, 뉴스 헤드라인을 기반으로 해당 날짜의 시황을 한국어로 자세히 설명하세요.\n\n### 코드\n{code}\n\n### OHLCV 요약\n{ohlcv_summary}\n\n### 뉴스 요약\n{news_summary}\n",
+  "completion": "{commentary}"
+}

@@ -1,0 +1,36 @@
+2025-12-05 07:00:40,709 INFO    MainThread:11012 [wandb_init.py:setup_run_log_directory():706] Logging user logs to /home/ec2-user/SageMaker/wandb/run-20251205_070040-wxki7152/logs/debug.log
+2025-12-05 07:00:40,709 INFO    MainThread:11012 [wandb_init.py:setup_run_log_directory():707] Logging internal logs to /home/ec2-user/SageMaker/wandb/run-20251205_070040-wxki7152/logs/debug-internal.log
+2025-12-05 07:00:40,709 INFO    MainThread:11012 [wandb_init.py:monkeypatch_ipython():625] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7fc08f4fd180>
+2025-12-05 07:00:40,709 INFO    MainThread:11012 [wandb_init.py:init():833] calling init triggers
+2025-12-05 07:00:40,709 INFO    MainThread:11012 [wandb_init.py:init():838] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-12-05 07:00:40,710 INFO    MainThread:11012 [wandb_init.py:init():881] starting backend
+2025-12-05 07:00:40,710 INFO    MainThread:11012 [wandb_init.py:init():884] sending inform_init request
+2025-12-05 07:00:40,711 INFO    MainThread:11012 [wandb_init.py:init():892] backend started and connected
+2025-12-05 07:00:40,714 INFO    MainThread:11012 [wandb_run.py:_label_probe_notebook():1328] probe notebook
+2025-12-05 07:00:40,714 INFO    MainThread:11012 [wandb_run.py:_label_probe_notebook():1338] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2025-12-05 07:00:40,714 INFO    MainThread:11012 [wandb_init.py:init():962] updated telemetry
+2025-12-05 07:00:40,716 INFO    MainThread:11012 [wandb_init.py:init():986] communicating run to backend with 90.0 second timeout
+2025-12-05 07:00:41,185 INFO    MainThread:11012 [wandb_init.py:init():1033] starting run threads in backend
+2025-12-05 07:00:41,366 INFO    MainThread:11012 [wandb_run.py:_console_start():2506] atexit reg
+2025-12-05 07:00:41,366 INFO    MainThread:11012 [wandb_run.py:_redirect():2354] redirect: wrap_raw
+2025-12-05 07:00:41,366 INFO    MainThread:11012 [wandb_run.py:_redirect():2423] Wrapping output streams.
+2025-12-05 07:00:41,366 INFO    MainThread:11012 [wandb_run.py:_redirect():2446] Redirects installed.
+2025-12-05 07:00:41,367 INFO    MainThread:11012 [wandb_init.py:init():1073] run started, returning control to user process
+2025-12-05 07:00:41,369 INFO    MainThread:11012 [wandb_init.py:_post_run_cell_hook():595] [no run ID] resuming backend
+2025-12-05 07:00:59,526 INFO    MainThread:11012 [jupyter.py:save_ipynb():353] [no run ID] not saving jupyter notebook
+2025-12-05 07:00:59,526 INFO    MainThread:11012 [wandb_init.py:_pre_run_cell_hook():584] [no run ID] pausing backend
+2025-12-05 07:00:59,557 INFO    MainThread:11012 [wandb_init.py:_post_run_cell_hook():595] [no run ID] resuming backend
+2025-12-05 07:01:31,998 INFO    MainThread:11012 [jupyter.py:save_ipynb():353] [no run ID] not saving jupyter notebook
+2025-12-05 07:01:31,998 INFO    MainThread:11012 [wandb_init.py:_pre_run_cell_hook():584] [no run ID] pausing backend
+2025-12-05 07:01:32,032 INFO    MainThread:11012 [wandb_init.py:_post_run_cell_hook():595] [no run ID] resuming backend
+2025-12-05 07:01:49,968 INFO    MainThread:11012 [jupyter.py:save_ipynb():353] [no run ID] not saving jupyter notebook
+2025-12-05 07:01:49,968 INFO    MainThread:11012 [wandb_init.py:_pre_run_cell_hook():584] [no run ID] pausing backend
+2025-12-05 07:01:49,969 INFO    MainThread:11012 [wandb_run.py:_finish():2272] finishing run youani-korea-university/uncategorized/wxki7152
+2025-12-05 07:01:49,970 INFO    MainThread:11012 [jupyter.py:save_history():429] not saving jupyter history
+2025-12-05 07:01:49,970 INFO    MainThread:11012 [jupyter.py:save_ipynb():353] not saving jupyter notebook
+2025-12-05 07:01:49,970 INFO    MainThread:11012 [wandb_init.py:_jupyter_teardown():610] cleaning up jupyter logic
+2025-12-05 07:01:49,970 INFO    MainThread:11012 [wandb_run.py:_atexit_cleanup():2471] got exitcode: 0
+2025-12-05 07:01:49,970 INFO    MainThread:11012 [wandb_run.py:_restore():2453] restore
+2025-12-05 07:01:49,970 INFO    MainThread:11012 [wandb_run.py:_restore():2459] restore done
+2025-12-05 07:01:50,813 INFO    MainThread:11012 [wandb_run.py:_footer_sync_info():3835] logging synced files
